@@ -1,0 +1,21 @@
+*,
+h {
+ font-size:48px;
+}
+
+b {
+font-size: 28px
+}
+
+pre {
+font-size: 26px
+}
+
+em {
+font-size: 28px
+}
+
+::before,
+::after {
+	box-sizing: border-box;
+}
